@@ -131,7 +131,7 @@ cd class-11-transfer-admission
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 class-11-transfer-admission/
