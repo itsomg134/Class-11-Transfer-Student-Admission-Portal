@@ -172,7 +172,7 @@ class-11-transfer-admission/
 
 ---
 
-## ✅ Validation Rules
+##  Validation Rules
 
 ### Client-Side Validation:
 ```javascript
@@ -199,7 +199,7 @@ All fields marked with * must be filled
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Changing School Details
 Edit the header section in `index.html`:
@@ -250,20 +250,20 @@ async function handleSubmit(event) {
 
 ---
 
-## 🌐 Browser Support
+##  Browser Support
 
 | Browser | Version | Status |
 |---------|---------|--------|
-| Chrome | 90+ | ✅ Fully Supported |
-| Firefox | 88+ | ✅ Fully Supported |
-| Safari | 14+ | ✅ Fully Supported |
-| Edge | 90+ | ✅ Fully Supported |
-| Opera | 76+ | ✅ Fully Supported |
-| Internet Explorer | 11 | ⚠️ Partial Support |
+| Chrome | 90+ |  Fully Supported |
+| Firefox | 88+ |  Fully Supported |
+| Safari | 14+ | Fully Supported |
+| Edge | 90+ |  Fully Supported |
+| Opera | 76+ |  Fully Supported |
+| Internet Explorer | 11 |  Partial Support |
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -273,17 +273,9 @@ Contributions are welcome! Here's how you can help:
 4. **Push** to branch: `git push origin feature/amazing-feature`
 5. **Open** a Pull Request
 
-### Contribution Ideas:
-- Add multi-language support
-- Implement CAPTCHA for spam prevention
-- Create admin dashboard
-- Add payment gateway integration
-- Email notification system
-- Database integration (MySQL/MongoDB)
-
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
