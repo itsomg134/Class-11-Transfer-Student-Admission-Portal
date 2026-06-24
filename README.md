@@ -152,7 +152,7 @@ class-11-transfer-admission/
 
 ---
 
-## 📝 Form Fields
+##  Form Fields
 
 ### Student Information
 | Field | Type | Required | Description |
