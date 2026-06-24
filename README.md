@@ -86,7 +86,7 @@ This project provides a complete admission portal interface for **Horizon Academ
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Method 1: Direct Download
 1. Download the ZIP file from this repository
