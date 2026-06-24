@@ -1,6 +1,3 @@
-Here's a comprehensive GitHub README for your Class 11 Transfer Student Admission Website:
-
-```markdown
 # 🎓 Class 11 Transfer Student Admission Portal
 
 A responsive, user-friendly web application designed for Horizon Academy to streamline Class XI admission process specifically for transfer students. Built with HTML, CSS, and JavaScript.
