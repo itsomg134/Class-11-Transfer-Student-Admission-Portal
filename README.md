@@ -9,25 +9,6 @@ A responsive, user-friendly web application designed for Horizon Academy to stre
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Form Fields](#form-fields)
-- [Validation Rules](#validation-rules)
-- [Customization](#customization)
-- [Browser Support](#browser-support)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🔍 Overview
 
 This project provides a complete admission portal interface for **Horizon Academy's Class XI transfer admissions (2026-27 session)**. It's designed to collect all necessary information from students transferring from other schools, including previous academic records, transfer certificates, and stream preferences.
