@@ -1,4 +1,4 @@
-# 🎓 Class 11 Transfer Student Admission Portal
+#  Class 11 Transfer Student Admission Portal
 
 A responsive, user-friendly web application designed for Horizon Academy to streamline Class XI admission process specifically for transfer students. Built with HTML, CSS, and JavaScript.
 
@@ -9,21 +9,21 @@ A responsive, user-friendly web application designed for Horizon Academy to stre
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project provides a complete admission portal interface for **Horizon Academy's Class XI transfer admissions (2026-27 session)**. It's designed to collect all necessary information from students transferring from other schools, including previous academic records, transfer certificates, and stream preferences.
 
 ### Key Highlights:
-- 📱 Fully responsive design (mobile, tablet, desktop)
-- 🎨 Modern UI with gradient backgrounds and smooth shadows
-- ✅ Client-side form validation
-- 📁 File upload for Transfer Certificate
-- 📊 Informative sidebar with requirements and deadlines
-- 🔒 User-friendly error handling
+-  Fully responsive design (mobile, tablet, desktop)
+-  Modern UI with gradient backgrounds and smooth shadows
+-  Client-side form validation
+-  File upload for Transfer Certificate
+-  Informative sidebar with requirements and deadlines
+-  User-friendly error handling
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Functionality
 - **Transfer-Specific Form Fields**
