@@ -56,25 +56,8 @@ This project provides a complete admission portal interface for **Horizon Academ
 - Accessible form labels
 
 ---
+<img width="1888" height="8143" alt="image" src="https://github.com/user-attachments/assets/0e1c8c00-cb78-474c-bb26-98e68225fe11" />
 
-## 🖥️ Demo
-
-### Live Demo
-🔗 **[View Live Demo](https://yourusername.github.io/class-11-transfer-admission/)**
-
-### Quick Preview
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/class-11-transfer-admission.git
-
-# Open in browser
-cd class-11-transfer-admission
-open index.html  # or double-click the file
-```
-
----
-
-## 📸 Screenshots
 
 ### Desktop View
 ```
