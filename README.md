@@ -108,7 +108,7 @@ cd class-11-transfer-admission
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### For Students/Parents:
 1. Open the website in any browser
