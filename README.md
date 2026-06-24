@@ -157,18 +157,18 @@ class-11-transfer-admission/
 ### Student Information
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| Student Full Name | text | ✅ | As per previous school records |
-| Date of Birth | date | ✅ | Student's date of birth |
-| Gender | select | ✅ | Male/Female/Other |
-| Previous School | text | ✅ | Name of last school attended |
-| Board | select | ✅ | CBSE/ICSE/IB/State Board/Other |
-| Percentage/CGPA | text | ✅ | Class X academic performance |
-| Preferred Stream | select | ✅ | Science/Commerce/Arts |
-| Parent Mobile | tel | ✅ | 10-digit Indian mobile number |
-| Email | email | ✅ | Parent/guardian email |
-| Address | textarea | ✅ | Current residential address |
-| Transfer Certificate | file | ✅ | PDF/JPG upload |
-| Reason for Transfer | textarea | ✅ | Brief explanation |
+| Student Full Name | text |  | As per previous school records |
+| Date of Birth | date |  | Student's date of birth |
+| Gender | select |  | Male/Female/Other |
+| Previous School | text | | Name of last school attended |
+| Board | select | | CBSE/ICSE/IB/State Board/Other |
+| Percentage/CGPA | text | | Class X academic performance |
+| Preferred Stream | select | | Science/Commerce/Arts |
+| Parent Mobile | tel | | 10-digit Indian mobile number |
+| Email | email | | Parent/guardian email |
+| Address | textarea | | Current residential address |
+| Transfer Certificate | file | | PDF/JPG upload |
+| Reason for Transfer | textarea | | Brief explanation |
 
 ---
 
